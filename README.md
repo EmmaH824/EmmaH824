@@ -4,8 +4,8 @@
 - 😄 Pronouns: She/her
 
 - Tools:
-- ![image](https://github.com/user-attachments/assets/8ac714df-5457-4ade-b634-0a7c9c4b305d)
-- ![image](https://github.com/user-attachments/assets/00a3b518-07f0-48f0-9f38-1788e5d045df)
+![image](https://github.com/user-attachments/assets/7644ea55-d1f9-451f-b531-eb65173a599f)
+
 
 
 
