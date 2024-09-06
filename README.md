@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning many, many things on the Le Wagon Bootcamp in Data Analytics.
 - 😄 Pronouns: She/her
 
-- Tools:
-![image](https://github.com/user-attachments/assets/7644ea55-d1f9-451f-b531-eb65173a599f)
 
 
 
