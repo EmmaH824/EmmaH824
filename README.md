@@ -5,15 +5,37 @@
   <h2> Hi, I’m Emma👋 </h2>
   <a href="www.linkedin.com/in/emma-holness"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn button"/></a>
 </div>
-<h3>👩‍💻 About Me:</h3>
-- 👀 I’m interested in data, data, data!
-<br>
-- 🌱 I’m currently learning many, many things on the Le Wagon Bootcamp in Data Analytics.
-<br>
-- 😄 Pronouns: She/her
-<h3> 🧰 My Toolbox:</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,py,vscode,github">
+<h3>👩‍💻 About Me:</h3>
+ 👀 I’m interested in data, data, data!
+<br>
+<br>
+ 🌱 I’m currently learning many, many things on the Le Wagon Bootcamp in Data Analytics.
+<br>
+<br>
+ 😄 Pronouns: She/her
+<div/>
+<div align="center">
+  <br>
+  <br>
+  <h3> 🧰 My Toolbox:</h3>
+  <br>
+
+  <img height="50" width="50" src="https://cdn.simpleicons.org/mysql/4479A1" />
+  &nbsp;
+  <img height="50" width="50" src="https://cdn.simpleicons.org/googlebigquery/669DF6" />
+  &nbsp;
+  <img height="50" width="50" src="https://cdn.simpleicons.org/python/3776AB" />
+  &nbsp;
+  <img height="50" width="50" src="https://cdn.simpleicons.org/googlesheets/34A853" />
+  &nbsp;
+  <img height="50" width="50" src="https://cdn.simpleicons.org/googletagmanager/246FDB" />
+  &nbsp;
+  <img height="50" width="50" src="https://cdn.simpleicons.org/zapier/FF4F00" />
+  &nbsp;
+  <img height="50" width="50" src="https://cdn.simpleicons.org/hubspot/FF7A59" />
+  &nbsp;
+  <img height="50" width="50" src="https://cdn.simpleicons.org/looker/4285F4" />
 
 </div>
 
