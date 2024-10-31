@@ -10,7 +10,7 @@
  👀 I’m interested in data, data, data!
 <br>
 <br>
- 🌱 I’m currently learning many, many things on the Le Wagon Bootcamp in Data Analytics.
+ 🌱 I’m currently learning many, many things after the amazing Le Wagon Bootcamp in Data Analytics.
 <br>
 <br>
  😄 Pronouns: She/her
